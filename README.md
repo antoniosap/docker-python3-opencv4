@@ -1,6 +1,6 @@
 [![Docker Automated buil](https://img.shields.io/docker/automated/antoniosap/docker-python3-opencv4.svg)]()
 
-Docker image with python 3.7 and opencv 4.0.1 + contrib
+Docker image with python 3.7 and opencv 4.0.1 + contrib + ipython + jupyter
 
 Usage:
 
