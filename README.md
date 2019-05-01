@@ -11,3 +11,5 @@ Docker image built with [contrib modules](https://github.com/opencv/opencv_contr
 
 + ipython
 + jupyter
+
+DockerHub https://hub.docker.com/r/antoniosap/docker-python3-opencv4/
